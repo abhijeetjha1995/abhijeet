@@ -1,0 +1,17 @@
+.company-wrap{
+    box-sizing: border-box;
+    width: 50%;
+    background-color: rgb(57, 200, 219)
+}
+.company-wrap h1{
+    color: blue;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.company-wrap h2{
+    color: brown;
+    font-style: bold;
+}
+.company-wrap h3{
+    color: blueviolet
+}
